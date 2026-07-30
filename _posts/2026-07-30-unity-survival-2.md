@@ -1,6 +1,6 @@
 ---
 title: "유니티 생존 게임 리팩토링 - 1"
-date: 2026-07-01 09:00:00 +0900
+date: 2026-07-30 09:00:00 +0900
 categories: [PortfolioProjects, UnitySurvival]
 tags: [Csharp, Unity]
 ---
