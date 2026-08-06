@@ -7,7 +7,7 @@ tags: [Csharp, Unity]
 # Survival Refactoring 변경 내역
 - 기준일: 2026-08-06
 - Unity: 6000.3.14f1
-
+- Git 링크 : [Survival Refactoring GitHub 저장소](https://github.com/Arsene1025/Survival_Refactoring.git)
 ## 1. UI 상태 관리자
 
 기존 `Queue<UI_Base>` 방식은 실제로 닫는 UI와 큐에서 제거되는 UI가 달라질 수 있었음. 이를 `UIStateManager`의 `HashSet<UI_Base>` 관리 방식으로 변경.
