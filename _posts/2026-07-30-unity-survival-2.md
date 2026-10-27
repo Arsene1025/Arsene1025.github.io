@@ -11,7 +11,7 @@ tags: [Csharp, Unity]
 - 리팩토링을 통해 시작과 끝이 있는 프로젝트로 완성하는 것이 목표.
 
 
-## 리팰토링 예정 목록
+## 리팩토링 예정 목록
 
 ![작업 결과 화면](/assets/img/unitysurvive/SurvivalStruct.png)
 
